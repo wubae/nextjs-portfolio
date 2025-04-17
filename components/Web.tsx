@@ -20,7 +20,7 @@ const Web = () => {
 
   return (
     <a
-      href="https://github.com/zammera/Smart_Shopper"
+      href="https://github.com/wubae/nextjs-portfolio"
       target="_blank"
       rel="noopener noreferrer"
       className="no-underline"
