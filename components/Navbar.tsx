@@ -21,7 +21,7 @@
           {/* Right - Links */}
           <div className="flex items-center mr-4 sm:mr-50">
             <Link
-              href="#resume"
+              href="#"
               className="text-white text-lg sm:text-xl hover:text-[#5DB996] transition-colors duration-300"
             >
               Resume
