@@ -4,7 +4,7 @@ import { useEffect, useState, useRef } from 'react';
 import Image from 'next/image';
 
 export default function Hero() {
-  const images = ['/bay.jpg', '/ramen.jpg', '/me.jpg'];
+  const images = ['/bay.jpg', '/ramen.jpg', '/leb.jpg'];
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [startTimer, setStartTimer] = useState(false);
