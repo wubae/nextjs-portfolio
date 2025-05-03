@@ -39,21 +39,21 @@ const Retina = () => {
           className="rounded-t-3xl bg-cover bg-center"
           style={{
             gridArea: "image",
-            backgroundImage: "url('/retina.png')",
+            backgroundImage: "url('/resnet.png')",
           }}
         />
         <div
           className="text-white px-6 py-4"
           style={{ gridArea: "text", transform: "translateZ(30px)" }}
         >
-          <h2 className="text-2xl md:text-3xl font-extrabold">RetinaNet</h2>
+          <h2 className="text-2xl md:text-3xl font-extrabold">ResNet-50 SE</h2>
           <p className="text-sm text-gray-300 mt-1 mb-3">
             PyTorch, ResNet/VGG16, Medical Imaging, matplotlib, seaborn, Jupyter Notebook
           </p>
           <p className="text-sm">
           Developed a deep learning pipeline for retinal disease classification using OCT 
-          images, comparing the performance of a custom CNN, VGG16, and ResNet-50 with 
-          GPU-accelerated training.
+          images, comparing the performance with two baseline models, a refined model, and ResNet-50 with
+          SE blocks.
           </p>
         </div>
       </div>
