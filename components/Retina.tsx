@@ -20,7 +20,7 @@ const Retina = () => {
 
   return (
     <a
-      href="https://github.com/ejagojo/RetinaNet"
+      href="https://github.com/ejagojo/Retnify"
       target="_blank"
       rel="noopener noreferrer"
       className="no-underline"
