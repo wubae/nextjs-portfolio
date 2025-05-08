@@ -1,6 +1,8 @@
-import Smart from '../components/Smart';
-import Retina from '../components/Retina';
-import Web from '../components/Web';
+import Smart from '../components/projects/Smart';
+import Retina from '../components/projects/Retina';
+import Web from '../components/projects/Web';
+import Hexa from '../components/projects/Hexa';
+import Photo from '../components/projects/Photo';
 import Tech from '../components/Tech';
 
 export default function HomePage() {
@@ -29,6 +31,8 @@ export default function HomePage() {
               <Smart />
               <Retina />
               <Web />
+              <Hexa />
+              <Photo />
         </section>
 
         <div className="max-w-[180px] mb-0 mt-0 p-[10px] rounded-[20px]

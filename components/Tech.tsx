@@ -12,7 +12,7 @@ const Tech = () => {
     },
     {
       title: "Technologies",
-      description: "Firebase, Git, REST APIs, Node.js, Express",
+      description: "Firebase, Git, REST APIs, Node.js, Express, Docker",
     },
     {
       title: "Developer Tools",
