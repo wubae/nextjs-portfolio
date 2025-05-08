@@ -21,7 +21,9 @@
           {/* Right - Links */}
           <div className="flex items-center mr-4 sm:mr-50">
             <Link
-              href="#"
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-white text-lg sm:text-xl hover:text-[#5DB996] transition-colors duration-300"
             >
               Resume
