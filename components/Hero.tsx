@@ -55,9 +55,9 @@ export default function Hero() {
         <div className="flex items-center gap-8">
           <div
             onClick={openModal}
-            className="w-[180px] h-[180px] rounded-full bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] flex items-center justify-center p-[5px] cursor-pointer hover:scale-105 transition-transform"
+            className="w-[160px] h-[160px] rounded-full bg-gradient-to-r from-[#833ab4] via-[#fd1d1d] to-[#fcb045] flex items-center justify-center p-[5px] cursor-pointer hover:scale-105 transition-transform"
           >
-            <div className="w-[170px] h-[170px] rounded-full overflow-hidden bg-white">
+            <div className="w-[150px] h-[150px] rounded-full overflow-hidden bg-white">
               <Image
                 src="/pro.jpg"
                 alt="Profile"
@@ -68,7 +68,7 @@ export default function Hero() {
               />
             </div>
           </div>
-          <h1 className="text-white text-[50px] font-bold leading-tight mb-0">
+          <h1 className="text-white text-[45px] font-bold leading-tight mb-0">
             Hello 🙋🏻‍♂️,<br /> I am Wu Li
           </h1>
         </div>

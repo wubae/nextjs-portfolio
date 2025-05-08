@@ -16,7 +16,7 @@ const Tech = () => {
     },
     {
       title: "Developer Tools",
-      description: "VSCode, GitHub, Postman, Figma, Chrome DevTools",
+      description: "VSCode, GitHub, Postman, Figma, Chrome DevTools, Jupyter Notebook",
     },
   ];
 
