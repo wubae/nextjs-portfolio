@@ -51,9 +51,9 @@ const Photo = () => {
             SFML, C++, Makefile
           </p>
           <p className="text-sm">
-          Developed a responsive portfolio website using 
-          Next.js, Tailwind CSS, and TypeScript to showcase projects, 
-          skills, and contact information with clean, modern UI design.
+          Built an interactive image encryption tool using C++, SFML, and a custom 16-bit
+           Fibonacci LFSR algorithm to encode and decode pixel data through bitwise 
+           transformations, with validation powered by Boost unit testing.
           </p>
         </div>
       </div>

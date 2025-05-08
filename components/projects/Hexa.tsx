@@ -51,9 +51,8 @@ const Hexa = () => {
             SFML, C++, Makefile
           </p>
           <p className="text-sm">
-          Developed a responsive portfolio website using 
-          Next.js, Tailwind CSS, and TypeScript to showcase projects, 
-          skills, and contact information with clean, modern UI design.
+          Designed a recursive graphics application in C++ using SFML to render dynamic Hexaflake fractals, 
+          allowing user-controlled depth and size while demonstrating recursive algorithms and geometric precision.
           </p>
         </div>
       </div>
