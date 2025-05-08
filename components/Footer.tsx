@@ -30,7 +30,7 @@ export default function Footer() {
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com/in/yourprofile"
+          href="https://linkedin.com/in/liwuhui"
           target="_blank"
           rel="noopener noreferrer"
           className="text-white text-[1.5rem] hover:text-[#ccc] transition-colors"

@@ -48,7 +48,7 @@ const Photo = () => {
         >
           <h2 className="text-2xl md:text-3xl font-extrabold">PhotoMagic</h2>
           <p className="text-sm text-gray-300 mt-1 mb-3">
-            SFML, C++, Makefile
+            SFML, C++, Makefile, Boost
           </p>
           <p className="text-sm">
           Built an interactive image encryption tool using C++, SFML, and a custom 16-bit
