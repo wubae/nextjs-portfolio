@@ -38,7 +38,7 @@ export default function Footer() {
           <FaLinkedin />
         </a>
         <a
-          href="mailto:liwuhui5@gmail.com"
+          href="mailto:wuhui_li@outlook.com"
           className="text-white text-[1.5rem] hover:text-[#ccc] transition-colors"
         >
           <FaEnvelope />
