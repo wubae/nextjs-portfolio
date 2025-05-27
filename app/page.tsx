@@ -3,6 +3,7 @@ import Retina from '../components/projects/Retina';
 import Web from '../components/projects/Web';
 import Hexa from '../components/projects/Hexa';
 import Photo from '../components/projects/Photo';
+import Vision from '../components/projects/Vision';
 import Tech from '../components/Tech';
 
 export default function HomePage() {
@@ -28,6 +29,7 @@ export default function HomePage() {
 
         {/* Card Section */}
         <section className="flex flex-wrap justify-center items-start gap-8 py-16">
+              <Vision />
               <Smart />
               <Retina />
               <Web />
