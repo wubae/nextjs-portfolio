@@ -50,10 +50,10 @@ const Photo = () => {
           <p className="text-sm text-gray-300 mt-1 mb-3">
             SFML, C++, Makefile, Boost
           </p>
-          <p className="text-sm">
-          Built an interactive image encryption tool using C++, SFML, and a custom 16-bit
+          <p>
+          Built an image encryption tool using a 16-bit
            Fibonacci LFSR algorithm to encode and decode pixel data through bitwise 
-           transformations, with validation powered by Boost unit testing.
+           transformations, with validation by Boost testing.
           </p>
         </div>
       </div>

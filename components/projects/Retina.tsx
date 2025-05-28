@@ -46,14 +46,13 @@ const Retina = () => {
           className="text-white px-6 py-4"
           style={{ gridArea: "text", transform: "translateZ(30px)" }}
         >
-          <h2 className="text-2xl md:text-3xl font-extrabold">ResNet-50 SE</h2>
+          <h2 className="text-2xl md:text-3xl font-extrabold">Retnify</h2>
           <p className="text-sm text-gray-300 mt-1 mb-3">
             PyTorch, ResNet/VGG16, Medical Imaging, matplotlib, seaborn, Jupyter Notebook
           </p>
-          <p className="text-sm">
-          Developed a deep learning pipeline for retinal disease classification using OCT 
-          images, comparing the performance with two baseline models, a refined model, and ResNet-50 with
-          SE blocks.
+          <p>
+          Trained a CNN-based model to classify 84,484 OCT retinal images into 4 disease
+          categories, achieving 97.2% validation accuracy.
           </p>
         </div>
       </div>

@@ -50,9 +50,9 @@ const Hexa = () => {
           <p className="text-sm text-gray-300 mt-1 mb-3">
             SFML, C++, Makefile
           </p>
-          <p className="text-sm">
-          Designed a recursive graphics application in C++ using SFML to render dynamic Hexaflake fractals, 
-          allowing user-controlled depth and size while demonstrating recursive algorithms and geometric precision.
+          <p>
+          Designed a recursive graphics application rendering dynamic Hexaflake fractals, 
+          allowing user-controlled depth and size while demonstrating recursive algorithms.
           </p>
         </div>
       </div>

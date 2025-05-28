@@ -51,8 +51,8 @@ const Smart = () => {
             Firebase, Bootstrap, JavaScript, Google API
           </p>
           <p>
-            Built a web app service that optimizes grocery shopping and provides
-            the most cost effective options.
+            Built and deployed a full stack, web app service that creates grocery lists,
+            tracking price history for items, and finding the cheapest nearby deals.
           </p>
         </div>
       </div>

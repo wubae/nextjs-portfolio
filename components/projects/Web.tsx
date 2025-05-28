@@ -50,9 +50,8 @@ const Web = () => {
           <p className="text-sm text-gray-300 mt-1 mb-3">
             Typescript, Next.js, Tailwind CSS
           </p>
-          <p className="text-sm">
-          Developed a responsive portfolio website using 
-          Next.js, Tailwind CSS, and TypeScript to showcase projects, 
+          <p>
+          Developed a responsive portfolio website to showcase projects, 
           skills, and contact information with clean, modern UI design.
           </p>
         </div>
