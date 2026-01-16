@@ -16,7 +16,7 @@ export default function Footer() {
             className="object-contain"
           />
         </Link>
-        <span className="text-[1.1rem] font-semibold">Wu Li 2025</span>
+        <span className="text-[1.1rem] font-semibold">Wu Li 2026</span>
       </div>
 
       {/* Right Side */}
