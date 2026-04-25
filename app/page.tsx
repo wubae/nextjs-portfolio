@@ -1,7 +1,7 @@
 import Smart from '../components/projects/Smart';
 import Retina from '../components/projects/Retina';
 import Web from '../components/projects/Web';
-import Hexa from '../components/projects/Hexa';
+import Parking from '../components/projects/Parking';
 import Photo from '../components/projects/Photo';
 import Vision from '../components/projects/Vision';
 import Tech from '../components/Tech';
@@ -28,12 +28,12 @@ export default function HomePage() {
         </div>
 
         {/* Card Section */}
-        <section className="flex flex-wrap justify-center items-start gap-8 py-16">
+        <section className="flex flex-wrap justify-center items-start gap-6 py-16">
+              <Parking />
               <Vision />
               <Smart />
               <Retina />
               <Web />
-              <Hexa />
               <Photo />
         </section>
 

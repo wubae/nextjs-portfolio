@@ -9,9 +9,9 @@
           <div className="flex items-center ml-4 sm:ml-50">
             <Link href="/">
               <Image
-                src="/logo.png"
+                src="/transparent.png"
                 alt="Profile"
-                width={62}
+                width={67}
                 height={47}
                 className="object-contain"
               />

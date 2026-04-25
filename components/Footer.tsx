@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="flex items-center gap-3 ml-[400px] max-[1000px]:ml-0">
         <Link href="/">
           <Image
-            src="/logo.png"
+            src="/transparent.png"
             alt="Logo"
             width={60}
             height={45}

@@ -69,7 +69,7 @@ export default function Hero() {
             </div>
           </div>
           <h1 className="text-white text-[45px] font-bold leading-tight mb-0">
-            Hello 🙋🏻‍♂️,<br /> I am Wu Li
+            Hello 🙋🏻‍♂️ <br/> I am Wu Li
           </h1>
         </div>
       </div>

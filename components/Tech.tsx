@@ -4,15 +4,15 @@ const Tech = () => {
   const techData = [
     {
       title: "Languages",
-      description: "JavaScript, TypeScript, Python, C, C++, Java, OCaml",
+      description: "JavaScript, TypeScript, Python, C, C++, Java, OCaml, Arcade",
     },
     {
       title: "Web Technologies",
-      description: "React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, WordPress",
+      description: "React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, WordPress, ArcGIS Online, ArcGIS Enterprise",
     },
     {
       title: "Technologies",
-      description: "Firebase, Git, REST APIs, Node.js, Express, Docker",
+      description: "Firebase, Git, REST APIs, Node.js, Express, Docker, ArcGIS Pro",
     },
     {
       title: "Developer Tools",
