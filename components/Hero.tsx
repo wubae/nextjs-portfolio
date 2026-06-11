@@ -59,7 +59,7 @@ export default function Hero() {
           >
             <div className="w-[150px] h-[150px] rounded-full overflow-hidden bg-white">
               <Image
-                src="/pro.png"
+                src="/image.jpg"
                 alt="Profile"
                 width={200}
                 height={200}
