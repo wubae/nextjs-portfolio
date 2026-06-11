@@ -8,7 +8,10 @@ import type { ReactNode } from 'react';
 
 // app/layout.tsx
 export const metadata = {
-  title: "Wu Li"
+  title: "Wu Li",
+  icons: {
+    icon: "/logoo.png",
+  },
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

@@ -9,7 +9,7 @@
           <div className="flex items-center ml-4 sm:ml-50">
             <Link href="/">
               <Image
-                src="/transparent.png"
+                src="/logo.png"
                 alt="Profile"
                 width={67}
                 height={47}

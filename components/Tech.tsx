@@ -4,19 +4,19 @@ const Tech = () => {
   const techData = [
     {
       title: "Languages",
-      description: "JavaScript, TypeScript, Python, C, C++, Java, OCaml, Arcade",
+      description: "JavaScript, TypeScript, Python, C, C++, Java, OCaml, SQL",
     },
     {
       title: "Web Technologies",
-      description: "React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, WordPress, ArcGIS Online, ArcGIS Enterprise",
+      description: "React, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap, WordPress, ArcGIS JavaScript SDK",
     },
     {
-      title: "Technologies",
-      description: "Firebase, Git, REST APIs, Node.js, Express, Docker, ArcGIS Pro",
+      title: "GIS & Data Technologies",
+      description: "Firebase, PostGIS, PostgreSQL, ArcPy, ArcGIS Enterprise, ArcGIS Online, ArcGIS Pro",
     },
     {
       title: "Developer Tools",
-      description: "VSCode, GitHub, Postman, Figma, Chrome DevTools, Jupyter Notebook",
+      description: "VS Code, Git, GitHub, Postman, Docker, Node.js, Express, REST APIs, Jupyter Notebook",
     },
   ];
 

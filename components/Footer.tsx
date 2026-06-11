@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="flex items-center gap-3 ml-[400px] max-[1000px]:ml-0">
         <Link href="/">
           <Image
-            src="/transparent.png"
+            src="/logo.png"
             alt="Logo"
             width={60}
             height={45}
@@ -38,7 +38,7 @@ export default function Footer() {
           <FaLinkedin />
         </a>
         <a
-          href="mailto:wuhui_li@outlook.com"
+          href="mailto:liwuhui5@gmail.com"
           className="text-white text-[1.5rem] hover:text-[#ccc] transition-colors"
         >
           <FaEnvelope />

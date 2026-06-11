@@ -59,7 +59,7 @@ export default function Hero() {
           >
             <div className="w-[150px] h-[150px] rounded-full overflow-hidden bg-white">
               <Image
-                src="/pro.jpg"
+                src="/pro.png"
                 alt="Profile"
                 width={200}
                 height={200}
@@ -69,7 +69,7 @@ export default function Hero() {
             </div>
           </div>
           <h1 className="text-white text-[45px] font-bold leading-tight mb-0">
-            Hello 🙋🏻‍♂️ <br/> I am Wu Li
+            Hello 👋 <br/> My Name is Wu!
           </h1>
         </div>
       </div>

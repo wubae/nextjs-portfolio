@@ -15,7 +15,7 @@ export default function HomePage() {
         {/* Fullscreen Centered Intro */}
         <section className="min-h-screen flex items-center justify-center text-center mt-[-600px]">
           <h2 className="text-white text-3xl font-bold">
-            I am a Software Engineer from Boston ☘️
+            I am a GIS Engineer and Software Developer specializing <br /> in geospatial technology and automation.
           </h2>
         </section>
 
