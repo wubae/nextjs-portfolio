@@ -21,10 +21,10 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         {/* Aurora background effect behind everything */}
         <div className="relative w-full h-[40vh] overflow-hidden">
           <Aurora
-            colorStops={['#3A29FF', '#FF94B4', '#FF3232']}
-            blend={0.4}
-            amplitude={0.5}
-            speed={1.0}
+            colorStops={['#84ffc9', '#aab2ff', '#eca0ff']}
+            blend={0.3}
+            amplitude={1}
+            speed={1.2}
           />
         </div>
         <Hero />
